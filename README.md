@@ -1,2 +1,2 @@
-# Simple_AI_webapp
-This AI web app is consist of a NLP powered field which tells your sentiment according to your sentence given to the modal.
+# coding-project-template
+This repo is for the practice project which is to be based on Embedded AI libraries. 
